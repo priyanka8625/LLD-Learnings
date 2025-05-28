@@ -29,7 +29,7 @@ Think of LLD as the blueprint of your code - just like how a chef needs a recipe
     LLD        LLD
     (Class     (Design
     Design)    Patterns)
-         ↙️     ↘️
+         ↙️     
         DSA
 ```
 
