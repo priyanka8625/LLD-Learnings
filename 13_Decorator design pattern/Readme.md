@@ -147,5 +147,3 @@ Basic Mario with Fire Flower with Super Mushroom - Attack Power: 45
 - Logging frameworks
 - Web servers middleware
 - Game development (like our Mario example!)
-
-
